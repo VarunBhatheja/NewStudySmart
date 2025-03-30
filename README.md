@@ -63,6 +63,6 @@ This project is licensed under the MIT License – feel free to modify and distr
 
 Contributions are welcome! If you’d like to improve the app, feel free to fork the repo and submit a pull request.
 
-📬 Contact: [Your Email] | [LinkedIn Profile]
+📬 Contact: [varunbhatheja2002@gmail.com] | [https://www.linkedin.com/in/varunbhathejab707701b4/]
 
 🚀 Let's redefine study productivity together!
